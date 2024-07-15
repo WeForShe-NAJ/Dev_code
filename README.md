@@ -1,5 +1,8 @@
 TrendIQ Fusion
 
+https://github.com/WeForShe-NAJ/Dev_code/blob/main/main.html
+
+
 Unique Selling Proposition (USP):
 TrendIQ Fusion differentiates itself through its comprehensive, technology-driven approach to trend identification and prediction. Unlike traditional methods, it:
 Promoting Indian Handicraft and Fashion Culture : Promote the rich heritage of Indian handicraft by integrating traditional elements with modern fashion trends, helping local artisans reach a global audience. This feature supports sustainable fashion and showcases unique, culturally rich styles.
