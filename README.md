@@ -16,6 +16,15 @@ Virtual try-ons: Use AR technology to allow users to virtually try on clothes wh
 Gamification: Implement a gamification system that tracks user activities and rewards them with points that can be redeemed for discounts or special offers.
 Recycling and Donation: Provide information and services for recycling or donating old clothes.
 
+
+Unique Selling point
+Pride Section
+<img width="263" alt="Screenshot 2024-07-16 at 12 11 42 AM" src="https://github.com/user-attachments/assets/0357520f-234d-4a5d-85e2-fc05cb7bef14">
+
+DesiCraft for Indian Handicraft
+<img width="261" alt="Screenshot 2024-07-16 at 12 11 48 AM" src="https://github.com/user-attachments/assets/ea59db3b-4f1e-421f-9d91-1cebbcf88891">
+
+
 Benefits 
 For Consumers:
 Personalization: Receive personalized fashion recommendations tailored to unique style preferences and current trends.
